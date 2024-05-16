@@ -1,0 +1,6 @@
+D:\ProG\Trabajo1GUtreras\ClaseCalculos\bin\Debug\ClaseCalculos.dll
+D:\ProG\Trabajo1GUtreras\ClaseCalculos\bin\Debug\ClaseCalculos.pdb
+D:\ProG\Trabajo1GUtreras\ClaseCalculos\obj\Debug\ClaseCalculos.csprojAssemblyReference.cache
+D:\ProG\Trabajo1GUtreras\ClaseCalculos\obj\Debug\ClaseCalculos.csproj.CoreCompileInputs.cache
+D:\ProG\Trabajo1GUtreras\ClaseCalculos\obj\Debug\ClaseCalculos.dll
+D:\ProG\Trabajo1GUtreras\ClaseCalculos\obj\Debug\ClaseCalculos.pdb

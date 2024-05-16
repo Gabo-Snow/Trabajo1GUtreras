@@ -1,0 +1,6 @@
+D:\ProG\Trabajo1GUtreras\ClaseMascota\bin\Debug\ClaseMascota.dll
+D:\ProG\Trabajo1GUtreras\ClaseMascota\bin\Debug\ClaseMascota.pdb
+D:\ProG\Trabajo1GUtreras\ClaseMascota\obj\Debug\ClaseMascota.csprojAssemblyReference.cache
+D:\ProG\Trabajo1GUtreras\ClaseMascota\obj\Debug\ClaseMascota.csproj.CoreCompileInputs.cache
+D:\ProG\Trabajo1GUtreras\ClaseMascota\obj\Debug\ClaseMascota.dll
+D:\ProG\Trabajo1GUtreras\ClaseMascota\obj\Debug\ClaseMascota.pdb

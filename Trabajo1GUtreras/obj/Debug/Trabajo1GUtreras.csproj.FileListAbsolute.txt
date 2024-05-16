@@ -1,0 +1,12 @@
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\Trabajo1GUtreras.exe.config
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\Trabajo1GUtreras.exe
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\Trabajo1GUtreras.pdb
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\obj\Debug\Trabajo1GUtreras.csprojAssemblyReference.cache
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\obj\Debug\Trabajo1GUtreras.csproj.CoreCompileInputs.cache
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\obj\Debug\Trabajo1GUtreras.exe
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\obj\Debug\Trabajo1GUtreras.pdb
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\ClaseCalculos.dll
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\ClaseMascota.dll
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\ClaseCalculos.pdb
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\bin\Debug\ClaseMascota.pdb
+D:\ProG\Trabajo1GUtreras\Trabajo1GUtreras\obj\Debug\Trabajo1GUtreras.csproj.CopyComplete
